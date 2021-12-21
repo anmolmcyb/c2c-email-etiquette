@@ -16,7 +16,8 @@
 
             This is to inform...
     - no scrolls, use attachments
-    - don't use times new roman, use sans serif font, ariel, verdana, tahoma, calibri
+    - don't use times new roman
+    - use sans serif font, ariel, verdana, tahoma, calibri
     - size 10 - 12, keep consistant
     - for leave_admin - Hello Team
 
