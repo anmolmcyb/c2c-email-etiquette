@@ -20,6 +20,9 @@
     - use sans serif font, ariel, verdana, tahoma, calibri
     - size 10 - 12, keep consistant
     - for leave_admin - Hello Team
+    - Use bullet points
+    - use short paragraphs
+    - use space between the paragraphs
 
 
     - Signature:
