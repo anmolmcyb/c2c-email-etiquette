@@ -1,4 +1,4 @@
-# c2c - email etiquettes
+# c2c - email etiquette
 
 - Subject 
     - short, like newspaper headlines
